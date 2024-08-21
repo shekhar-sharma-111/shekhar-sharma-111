@@ -1,7 +1,7 @@
 
 ## Hi, I am Shekhar! Great to see you here! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px" height="30px">
 
-I am [Shekhar Sharma](https://github.com/shekhar-sharma-111), a MERN Stack Developer. I am a tech enthusiast & an open-source contributor. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
+I am [Shekhar Sharma](https://github.com/shekhar-sharma-111), a MERN Stack Developer. I am a tech enthusiast. I am always ready to have new experiences and learn new things. Find out more about me & feel free to connect with me here:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/J2nJpJVp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekhar-sharma-3208a0232/)](https://www.linkedin.com/in/shekhar-sharma-3208a0232/)
