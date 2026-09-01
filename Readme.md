@@ -6,11 +6,10 @@ I am [Shekhar Sharma](https://github.com/shekhar-sharma-111), a MERN Stack Devel
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/J2nJpJVp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekhar-sharma-3208a0232/)](https://www.linkedin.com/in/shekhar-sharma-3208a0232/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shekha_r_/)](https://www.instagram.com/shekha_r_/#)
-[![Gmail Badge](https://img.shields.io/badge/-shekharsharma7206@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shekharsharma7206@gmail.com)](mailto:shekharsharma7206@gmail.com)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://lalitchauhan.bio.link//)](https://portfolio-shekhar-sharmas-projects-52c851c1.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-shekharsharma7206@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shekharsharma7206@gmail.com)](mailto:shekharsharma7206@gmail.com)(https://portfolio-shekhar-sharmas-projects-52c851c1.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shekhar666k)
 
-[![Lalit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shekhar-sharma-111&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.vercel.app/graph?username=shekhar-sharma-111&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
